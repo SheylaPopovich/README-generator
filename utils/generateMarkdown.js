@@ -69,18 +69,23 @@ function generateMarkdown(data) {
     ${data.usage}
 ## [Contribution](#contribution)
     If others would like to contribute to this project they may ${
-      data.contribute
+      data.contribution
     } the Repo.
 ## [Test](#test)
     The testing used for this application
      ${data.test}
-## [Questions](questions)
+## [Questions](Questions)
     If you have any questions, feel free to reach out to me via GitHub: ${
-      data.github
-    }
-    
-    or you may also send me an email at: ${data.email}
-${renderLicenseSection(data.license)}`;
+    data.github} or you may also send me an email at: ${data.email}.
+    Lets connect with me on LinkedIn: ${data.linkedIn}
+
+
+${renderLicenseSection(data.license)}
+
+## Show your support
+      Give a ⭐ if this project helped you!
+
+`;
 }
 
 module.exports = generateMarkdown;

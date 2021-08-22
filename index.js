@@ -15,7 +15,7 @@ const questions = [
 //put questions here
 {
     type: "input",
-    name: "git",
+    name: "github",
     message: "What is your GitHub username?",
     validate: (value) =>{ 
         if(value){return true
@@ -26,6 +26,16 @@ const questions = [
     type: "input",
     name: "email",
     message: "What is your Email address?",
+    validate: (value) =>{ 
+        if(value){return true
+        }else {return 'Please input value to continue';
+    }}
+
+},
+{
+    type: "input",
+    name: "linkedIn",
+    message: "Insert your LinkedIn URL address",
     validate: (value) =>{ 
         if(value){return true
         }else {return 'Please input value to continue';
@@ -61,7 +71,7 @@ const questions = [
     }}
 },
 {   type: "input",
-    name: "command",
+    name: "installation",
     message: "What command should be run to install dependencies?",
     validate: (value) =>{ 
         if(value){return true
@@ -69,7 +79,7 @@ const questions = [
     }}
 },
 {   type: "input",
-    name: "Test",
+    name: "test",
     message: "What command should be run to run tests?",
     validate: (value) =>{ 
         if(value){return true
@@ -77,7 +87,7 @@ const questions = [
     }}
 },
 {   type: "input",
-    name: "usingRepo",
+    name: "usage",
     message: "What does the user need to know about using the repo?",
     validate: (value) =>{ 
         if(value){return true
@@ -85,7 +95,7 @@ const questions = [
     }}
 },
 {   type: "input",
-    name: "contributing",
+    name: "contribution",
     message: "What does the user need to know about contributing to the repo?",
     validate: (value) =>{ 
         if(value){return true
