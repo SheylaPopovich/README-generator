@@ -12,7 +12,7 @@
 ## [Description](#description)
     s
 ## [Installation](#installation)
-    ss
+    s
 ## [Usage](#usage)
     s
 ## [Contribution](#contribution)
@@ -21,8 +21,8 @@
     The testing used for this application
      s
 ## [Questions](Questions)
-    If you have any questions, feel free to reach out to me via GitHub: shey or you may also send me an email at: s.
-    Lets connect with me on LinkedIn: s
+    If you have any questions, feel free to reach out to me via GitHub: sh or you may also send me an email at: she.
+    Lets connect with me on LinkedIn: sh
 
 
 ##  [License](#license)
