@@ -105,7 +105,7 @@ const questions = [
 // function writes the README file 
 function init() {
  inquirer.prompt(questions).then(data =>{
-    fs.writeFile('genREADME.md', generateMarkdown(data),
+    fs.writeFile('README.md', generateMarkdown(data),
     err => err ? console.error(err) : console.log('Generating your README!'))
  });
 }
