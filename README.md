@@ -15,6 +15,8 @@ Get Flexed is an app that helps you select a workout routine for the day. We wan
 <br>
 
 ## **Project** 
+<br>
+<br>
 
 ## **Installation** 
 The dependency used for this project was [Inquirer](https://www.npmjs.com/package/inquirer). <br>
@@ -30,36 +32,12 @@ Download the [Node.js](https://nodejs.org/en/download/) source code or a pre-bui
 <br>
 <br>
 
+## Contact
+If you want to contact me you can email me at [SheylaPopovich](sheylapopovich@gmail.com).
+
 
 ## **License**
 The README Generator content management system is released under the under terms of the [MIT License.](https://github.com/SheylaPopovich/README-generator/blob/main/LICENSE)
 <br>Copyright (c) 2021 [Sheyla Popovich](https://github.com/SheylaPopovich)
 <br>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
