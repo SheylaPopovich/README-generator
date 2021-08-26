@@ -35,7 +35,7 @@ Download the [Node.js](https://nodejs.org/en/download/) source code or a pre-bui
 <br>
 
 ## Contact
-If you want to contact me you can email me at [SheylaPopovich](sheylapopovich@gmail.com).
+If you want to contact me you can email me at [SheylaPopovich](mailto:sheylapopovich@gmail.com).
 
 
 ## **License**
