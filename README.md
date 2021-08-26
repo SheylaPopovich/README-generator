@@ -14,6 +14,8 @@ Get Flexed is an app that helps you select a workout routine for the day. We wan
 <br>
 <br>
 
+## **Project** 
+
 ## **Installation** 
 The dependency used for this project was [Inquirer](https://www.npmjs.com/package/inquirer). <br>
 To install Inquirer use the command below in your terminal:
