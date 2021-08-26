@@ -68,9 +68,9 @@ function generateMarkdown(data) {
 ## [Usage](#usage)
     ${data.usage}
 ## [Contribution](#contribution)
-    If others would like to contribute to this project they may ${
+     ${
       data.contribution
-    } the Repo.
+    }
 ## [Test](#test)
     The testing used for this application
      ${data.test}
