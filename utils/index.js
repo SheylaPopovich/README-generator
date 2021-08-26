@@ -4,7 +4,7 @@ const path = require("path");
 
 
 // function exports back to index file
-const generateMarkdown = require("./utils/generateMarkdown")
+const generateMarkdown = require("./generateMarkdown")
 
 
 
