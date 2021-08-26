@@ -16,7 +16,8 @@ Get Flexed is an app that helps you select a workout routine for the day. We wan
 <br>
 
 ## **Project** 
-This < Demo Video > will walk you through the application and its usage
+This demo video will walk you through the application and its usage:
+<img src="">
 <br>
 <br>
 
