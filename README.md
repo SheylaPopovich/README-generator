@@ -5,6 +5,7 @@
 <a href="#project">Project</a> |
 <a href="#installation">Installation</a> |
 <a href="#usage">Usage</a> |
+<a href="#contact">Contact</a> |
 <a href="#license">License</a>
 </p>
 <br>
