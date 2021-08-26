@@ -1,4 +1,4 @@
-# README Generator
+# <p align="center"> README Generator </p>
 
 <p align="center">
 <a href="#description">Description</a> |
