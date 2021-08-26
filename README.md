@@ -2,9 +2,9 @@
 
 <p align="center">
 <a href="#description">Description</a> |
+<a href="#project">Project</a> |
 <a href="#installation">Installation</a> |
 <a href="#usage">Usage</a> |
-<a href="#project-demo">Project</a> |
 <a href="#license">License</a>
 </p>
 <br>
