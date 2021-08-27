@@ -11,12 +11,12 @@
 <br>
 
 ## **Description**
-Get Flexed is an app that helps you select a workout routine for the day. We wanted to design a workout app that allows the user to select the type of workout they desire that recommends a workout matching their criteria and then inspires them with an inspirational quote.
+Creating a high quality README is very crucial to a developer's repository. README's provide an introduction to the files contained in the repository. Dependent on this introduction it can prevent a person from viewing or wanting to use your repository. This application will generate a professional README.md that will capture other developers to want to view and possibly use your repo. This tool generates a professional README with little to no effort. The README generator is able to read your environment prompting you for data input to then compose a personalized README.md file. 
 <br>
 <br>
 
 ## **Project** 
-This [demo video](https://github.com/SheylaPopovich/README-generator/blob/main/utils/assets/README-generator-demo.gif) will walk you through the application and its usage:
+This [demo video](https://github.com/SheylaPopovich/README-generator/blob/main/utils/assets/README-generator-demo.gif) will walk you through the application and its usage.
 <br>
 <br>
 
