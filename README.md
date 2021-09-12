@@ -1,4 +1,4 @@
-# README Generator
+# <p align="center"> README Generator </p>
 
 <p align="center">
 <a href="#description">Description</a> |
@@ -11,7 +11,7 @@
 <br>
 
 ## **Description**
-Get Flexed is an app that helps you select a workout routine for the day. We wanted to design a workout app that allows the user to select the type of workout they desire that recommends a workout matching their criteria and then inspires them with an inspirational quote.
+Creating a high quality README is very crucial to a developer's repository. README's provide an introduction to the files contained in the repository. Dependent on this introduction it can prevent a person from viewing or wanting to use your repository. This application will generate a professional README.md that will capture other developers to want to view and possibly use your repo. This tool generates a professional README with little to no effort. The README generator is able to read your environment prompting you for data input to then compose a personalized README.md file. 
 <br>
 <br>
 
@@ -36,7 +36,7 @@ Download the [Node.js](https://nodejs.org/en/download/) source code or a pre-bui
 <br>
 
 ## Contact
-If you want to contact me you can email me at [SheylaPopovich](sheylapopovich@gmail.com).
+If you want to contact me you can email me at [SheylaPopovich](mailto:sheylapopovich@gmail.com).
 
 
 ## **License**
